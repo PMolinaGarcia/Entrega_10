@@ -1,3 +1,5 @@
+package dominio;
+
 // BinaryTree.java
 public class BinaryTree {
     // Root node pointer. Will be null for an empty tree.

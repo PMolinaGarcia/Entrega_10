@@ -1,3 +1,6 @@
+package aplicacion;
+import dominio.*;
+
 public class Principal {
 
     static void mostrarFuncionamientoArbolesBinarios () {
